@@ -1,0 +1,1 @@
+connect Yahoo API and use it.
