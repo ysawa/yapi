@@ -2,3 +2,4 @@
 .swp
 .swo
 Thumbs.db
+config/*.yml
